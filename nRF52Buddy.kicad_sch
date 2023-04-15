@@ -424,6 +424,12 @@
     (property "Datasheet" "~" (at 50.8 181.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Alternate MPN" "" (at 50.8 181.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Alternate Manufacturer" "" (at 50.8 181.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1164e19b-e6ea-4a34-9bb7-ea39af9157e0))
     (instances
       (project "nRF52Buddy"
@@ -447,6 +453,12 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Alternate MPN" "" (at 50.8 171.45 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Alternate Manufacturer" "" (at 50.8 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a82ea000-2045-466b-8b9c-c2fcef2f06c3))
@@ -474,6 +486,12 @@
     (property "Datasheet" "~" (at 52.07 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Alternate MPN" "" (at 52.07 176.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Alternate Manufacturer" "" (at 52.07 176.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (instances
       (project "nRF52Buddy"
         (path "/f8009b5e-2814-48af-8478-16f2aae29be6"
@@ -496,6 +514,12 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 52.07 166.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Alternate MPN" "" (at 52.07 166.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Alternate Manufacturer" "" (at 52.07 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
