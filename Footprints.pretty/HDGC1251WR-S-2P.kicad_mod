@@ -35,4 +35,9 @@
     (thermal_bridge_angle 45) (tstamp 31e77a28-a3d0-4234-9c3e-335c3ca65769))
   (pad "3" smd rect (at 2.925 0) (size 2 3) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp df8c866d-f218-40ea-a132-497b2c5c1895))
+  (model "${KIPRJMOD}/3D Models/HDGC1251WR-S-2P.step"
+    (offset (xyz -2.25 -12.75 0.75))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )
