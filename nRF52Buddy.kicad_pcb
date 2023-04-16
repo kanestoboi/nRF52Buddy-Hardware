@@ -711,10 +711,10 @@
       (net 60 "/SCL") (pinfunction "SCL") (pintype "input") (tstamp d56ad541-5fdc-457a-ae71-6ea7146399f5))
     (pad "15" smd rect (at 0 0) (size 1.78 2.35) (layers "F.Cu" "F.Mask")
       (net 2 "GND") (pinfunction "GND") (pintype "passive") (tstamp 02350e9d-32cb-40a2-a366-2d37db5d86d7))
-    (model "${KIPRJMOD}/3D Models/DFN-14 5x5.step"
+    (model "${KIPRJMOD}/3D Models/DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm.step"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.6 0.6 0.6))
-      (rotate (xyz 0 0 90))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
