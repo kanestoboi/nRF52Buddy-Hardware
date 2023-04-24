@@ -1279,7 +1279,7 @@
     (property "Value" "AP9211" (at 111.125 108.0794 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "AP9211SA-AK-HAC-7:DFN200X300X60-7N" (at 109.22 115.57 0)
+    (property "Footprint" "Footprints:DFN200X300X60-7N" (at 109.22 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://au.mouser.com/datasheet/2/115/DIOD_S_A0003559384_1-2542245.pdf" (at 109.22 115.57 0)
@@ -1624,8 +1624,8 @@
     )
     (pin "1" (uuid 20f501d1-8421-432c-889b-a7c7c8e5bf2e))
     (pin "2" (uuid e98ca3bf-96a6-4700-9266-8ea01f63e2b8))
-    (pin "3" (uuid f59acdde-0b56-4ea8-b177-69885bd773f6))
-    (pin "3" (uuid 49dd9e67-a82e-4d48-9c74-5f63734d0b12))
+    (pin "3" (uuid 49dd9e67-a82e-4d48-9c74-5f63734d0b13))
+    (pin "3" (uuid 49dd9e67-a82e-4d48-9c74-5f63734d0b13))
     (instances
       (project "nRF52Buddy"
         (path "/f8009b5e-2814-48af-8478-16f2aae29be6/68dd5206-f59c-4f8c-876f-1a7cd0389797"
