@@ -1,7 +1,7 @@
 # nRF52Buddy-Hardware
 This repository contains the hardware files for nRF52 Buddy board
 
-<img src="Images/nRF52Buddy_Render3.png" alt="nRF52 Buddy PCB" width="25%">
+<img src="Images/nRF52Buddy_Render3.png" alt="nRF52 Buddy PCB" width="500">
 
 ## Overview
 
