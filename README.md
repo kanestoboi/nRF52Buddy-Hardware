@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/project/27165). 
+
 # nRF52Buddy-Hardware
 This repository contains the hardware files for nRF52 Buddy board
 
