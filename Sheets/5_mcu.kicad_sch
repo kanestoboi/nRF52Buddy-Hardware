@@ -1520,7 +1520,7 @@
     (uuid fa320cef-3606-4260-a0e3-d5bdd99b8e38)
   )
 
-  (label "P0.13{slash}BT_STATUS_LED" (at 222.25 132.08 0) (fields_autoplaced)
+  (label "P0.13{slash}STATUS_LED4" (at 222.25 132.08 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0423153b-5d9e-46eb-a31d-5a3335496a8b)
   )
@@ -1773,7 +1773,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e153ad1c-c2ec-4f0c-a7e1-ee35c84c159b)
   )
-  (hierarchical_label "P0.13{slash}BT_STATUS_LED" (shape input) (at 106.68 104.14 0) (fields_autoplaced)
+  (hierarchical_label "P0.13{slash}STATUS_LED4" (shape input) (at 106.68 104.14 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e40b3caa-52ff-4f86-9976-e12537663225)
   )

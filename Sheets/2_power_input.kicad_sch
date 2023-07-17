@@ -1624,8 +1624,8 @@
     )
     (pin "1" (uuid 20f501d1-8421-432c-889b-a7c7c8e5bf2e))
     (pin "2" (uuid e98ca3bf-96a6-4700-9266-8ea01f63e2b8))
-    (pin "3" (uuid 49dd9e67-a82e-4d48-9c74-5f63734d0b13))
-    (pin "3" (uuid 49dd9e67-a82e-4d48-9c74-5f63734d0b13))
+    (pin "3" (uuid 49dd9e67-a82e-4d48-9c74-5f63734d0b15))
+    (pin "3" (uuid 49dd9e67-a82e-4d48-9c74-5f63734d0b15))
     (instances
       (project "nRF52Buddy"
         (path "/f8009b5e-2814-48af-8478-16f2aae29be6/68dd5206-f59c-4f8c-876f-1a7cd0389797"
